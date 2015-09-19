@@ -9,13 +9,13 @@ Hanabi is a cooperative game where players take turns making moves to complete f
 
 ## Goal
 
-The goal is to put down the numbers 1--5 of each color (white, blue, red, yellow, green), in order. When every card has been drawn, the game gives one more round and then ends; you score a point for every card you put down.
+The goal is to play the numbers 1--5 of each color (white, blue, red, yellow, green), in order. When every card has been drawn, the game gives one more round and then ends; you score a point for every card you have played.
 
 ## Play
 
-Players take turns. On your turn you can do one of the following:
+Players take turns. On your turn you do one of the following:
 
-- **Give a hint** to another player. A hint might be _"these cards are 1's"_ or _"these cards are all yellow"_. You _must_ point out all the cards matching the description. You _must_ specify exactly one number or exactly one color in your hint. Hints cost tokens, of which there are a limited number.
+- **Give a hint** to another player. A hint might be _"these cards are 1's"_ or _"these cards are all yellow"_. You _must_ point out all the cards matching the description. You _must_ specify exactly one number or exactly one color in your hint. You cannot give 0-number hints, e.g., _"none of your cards are 3's"_. Hints cost tokens, of which there are a limited number.
 - **Play a card**. If the card is playable (that is, it is the next number in one of the color stacks), then put it in the right place. If it isn't, discard the card and lose a life. If you complete a stack (that is, play a five correctly), then you regain a hint token.
 - **Discard a card**. This regains a hint token.
 
