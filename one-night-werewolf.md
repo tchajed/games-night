@@ -19,13 +19,13 @@ At the end of the day, players **simultaneously vote** for someone to die. The p
 
 The goal for the villager team is to kill at least one werewolf (even if one of them dies). The goal for the werewolves is that none of them die. The goal for the minion is for no werewolves to die (even if he dies). The goal for the tanner, independently from everyone else, is to die.
 
-It is possible that there are no werewolves. In that case, the minion wins if he doesn't die and a villager dies. The tanner wins if he dies. The villagers _lose_ if they kill the tanner. They _win_ if they kill the minion. Villagers win if nobody dies.
+It is possible that there are no werewolves. In that case, the minion wins if he doesn't die and a villager dies. The tanner wins if he dies. The villagers _lose_ if they kill the tanner. They _win_ if they kill the minion; if there is no minion, they only win if nobody dies.
 
 ## Roles
 
 Roles are listed here in the order they wake up at night (which is important). You pick some subset of the roles to use.
 
-1. Doppelganger: look at a player's card and assume that role. Take the action now for Seer, Robber, Troublemaker, or Drunk; wake up with the appropriate role for the Werewolf and Mason. Doppleganger-Minion gets her own phase.
+1. Doppelgänger: look at a player's card and assume that role, **including for win conditions**. Take the action **now for Seer, Robber, Troublemaker, or Drunk**; wake up with the appropriate role for the Werewolf and Mason. Doppelgänger-Minion gets her own phase at the beginning, and Doppelgänger-Insomniac gets her own phase at the very end. .
 2. Werewolves: view each other. If there's only one, they can look at a center card.
 3. Minion: sees who the werewolves are (they don't know him).
 4. Masons: view each other.
@@ -34,9 +34,9 @@ Roles are listed here in the order they wake up at night (which is important). Y
 7. Troublemaker: (can choose to) exchange two other player's cards
 8. Drunk: exchange with the center (doesn't see it)
 9. Insomniac: views her own final card
-10. Hunter: (doesn't wake up) whomever he points to also dies
+10. Hunter: (doesn't wake up) if he dies, whomever he points to also dies
 11. Villager: (doesn't wake up) no special powers
 
 ## Day
 
-Say whatever you want. Don't show your card. Vote when time's up (usually 5-10 minutes).
+Say whatever you want. Don't show or look at your card. Vote when time's up (usually 5-10 minutes).
