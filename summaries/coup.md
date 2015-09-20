@@ -28,7 +28,7 @@ Contessa                                                         Blocks assasina
 
 A few notes:
 
-* Counter-actions are actions you can take when you have that character against others. For example, someone can block your taking 2 coins for foreign aid, claiming to have a Duke. These can be challenged.
+* Counter-actions are actions provided by specific characters that you can take against other player's actions. For example, someone can block your taking 2 coins for foreign aid, claiming to have a Duke. These can be challenged by others who don't think you have the appropriate character.
 * The Ambassador exchanges by drawing two cards and deciding which two of the four they have to keep. They should shuffle so players can't see whether they kept the old or new cards.
 * When you block stealing, you need to state whether it is with an Ambassador or a Captain.
 
@@ -36,4 +36,4 @@ A few notes:
 
 There is a variant from the expansion with teams. The game still has a single winner, but you cannot steal from, assasinate or coup your own team. You may pay 1 coin to change your team and 2 coins to change someone else's team.
 
-Money that is used to change teams goes to the center. Now, as long as you don't have a duke, you have an additional **embezzle** action where they you take all the money in the center. If you're challenged and you have a duke, you lose an influence of your choice. Otherwise, you have to show both of your cards, shuffle them in, and replace them, while your challenger loses an influence.
+Money that is used to change teams goes to the center. Now, as long as you don't have a Duke, you have an additional **embezzle** action where they you take all the money in the center. If you're challenged and you have a duke, you lose an influence of your choice. Otherwise, you have to show both of your cards, shuffle them in, and replace them, while your challenger loses an influence.
