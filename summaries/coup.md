@@ -36,4 +36,4 @@ A few notes:
 
 There is a variant from the expansion with teams. The game still has a single winner, but you cannot steal from, assasinate or coup your own team. You may pay 1 coin to change your team and 2 coins to change someone else's team.
 
-Money that is used to change teams goes to the center. Now all characters have an additional **embezzle** action where they can take all the money in the center.
+Money that is used to change teams goes to the center. Now, as long as you don't have a duke, you have an additional **embezzle** action where they you take all the money in the center. If you're challenged and you have a duke, you lose an influence of your choice. Otherwise, you have to show both of your cards, shuffle them in, and replace them, while your challenger loses an influence.
