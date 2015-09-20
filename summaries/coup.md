@@ -9,7 +9,7 @@ Coup is a game of deception and hidden identities. It's fast-paced, which makes 
 
 ## Goal
 
-You begin with two cards facedown in front of you (your "influence"). Each turn, you can perform the **action of any character** (follow the cheat sheet), claiming to have that character. At any time, you can challenge someone's action, thinking they don't have that character. If they don't have it, they **lose an influence** and the action is cancelled: they choose one of their cards to flip over, which they then lose for the rest of the game. If they do have it, they reveal it, shuffle it into the deck, and redraw, and as the challenger you lose an influence. Lying is encouraged.
+You begin with two cards facedown in front of you (your "influence"). The goal is to be the last one with any remaining influence. Each turn, you can perform the **action of any character** (follow the cheat sheet), claiming to have that character. At any time, you can challenge someone's action, thinking they don't have that character. If they don't have it, they **lose an influence** and the action is cancelled: they choose one of their cards to flip over, which they then lose for the rest of the game. If they do have it, they reveal it, shuffle it into the deck, and redraw, and as the challenger you lose an influence. Lying is encouraged.
 
 ## Character reference
 
