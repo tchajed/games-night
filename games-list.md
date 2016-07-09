@@ -1,5 +1,6 @@
 # CSC games
 - Bananagrams
+- Blokus + 3D + 2 player
 - Carcasonne
 - Citadels
 - Colt Express
