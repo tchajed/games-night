@@ -1,0 +1,43 @@
+# CSC games
+- Bananagrams
+- Carcasonne
+- Citadels
+- Colt Express
+- Coup + Reformation
+- Dead of Winter
+- Dixit
+- Dominion (+ expansions)
+- Dragoon
+- Game of Thrones board game
+- Labyrinth
+- Munchkin
+- One Night Ultimate Werewolf + Daybreak
+- Pandemic
+- Powergrid
+- Resistance
+- Robo Rally
+- Saboteur + 2
+- Secret Hitler
+- Settlers of Catan + expansion
+- Terra Mystica
+- Ticket to Ride (+ Europe)
+- Zombies!!!
+
+# Others' games
+- Amino
+- Avalon
+- Carcasonne + rivers expansion
+- Codenames
+- Cookie
+- Exploding Kittens + NSFW expansion
+- Hanabi
+- Liar's Dice
+- Love Letter
+- Mage Knight + Lost Legion expansion
+- Quoridor
+- Sheriff of Notingham
+- Smallworld
+- Splendor
+- Spyfall
+- Star Flux
+- Two Rooms and a Boom
