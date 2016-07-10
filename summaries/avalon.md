@@ -1,6 +1,7 @@
 ---
 header-includes:
     - \pagenumbering{gobble}
+    - \usepackage{color}
 ---
 
 # Avalon
