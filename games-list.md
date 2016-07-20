@@ -40,5 +40,5 @@
 - Smallworld
 - Splendor
 - Spyfall
-- Star Flux
+- Star Fluxx
 - Two Rooms and a Boom
