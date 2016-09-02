@@ -36,6 +36,7 @@
 - Love Letter
 - Mage Knight + Lost Legion expansion
 - Quoridor
+- The Resistance + Hidden Agenda expansion
 - Sheriff of Notingham
 - Smallworld
 - Splendor
