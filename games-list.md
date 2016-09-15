@@ -4,15 +4,19 @@
 - Carcasonne
 - Citadels
 - Colt Express
+- Cosmic Encounter
 - Coup + Reformation
 - Dead of Winter
+- Deception: Murder in Hong Kong
 - Dixit
 - Dominion (+ expansions)
 - Dragoon
+- Fury of Dracula
 - Game of Thrones board game
 - Labyrinth
 - Munchkin
 - One Night Ultimate Werewolf + Daybreak
+- Onitama
 - Pandemic
 - Powergrid
 - Resistance
