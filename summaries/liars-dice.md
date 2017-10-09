@@ -16,7 +16,7 @@ The game proceeds in rounds, where somebody loses a die after each round. The go
 
 Before each round, players roll their dice in secret. Players then take turns making claims on all the dice. Claims take the form of a quantity and a rank; for example, "7 \epsdice{2}s". Claims must **either increase the quantity or keep the same quantity and increase the rank**. For example, after "4 \epsdice{3}'s", "5 \epsdice{2}'s" is valid (increased quantity) and "4 \epsdice{5}'s" is valid (increased rank), but "4 \epsdice{2}'s" is not.
 
-When someone makes a claim you don't believe, you can challenge it. The round then ends and **all dice are revealed**: if the claim was correct (there were at least that many dice of that rank), then the challenger loses a die. Otherwise the person making the claim loses one. Then the next round begins.
+When someone makes a claim you don't believe, you can challenge it. The round then ends and **all dice are revealed**: if the claim was correct (there were at least that many dice of that rank), then the challenger loses a die. Otherwise the person making the claim loses one. Then the next round begins, starting with the player who lost the challenge. If that player is out, then begin with the player with the fewest dice.
 
 One additional twist: **\epsdice{1}'s** are wildcards; they count as any other number, **unless the first claim uses \epsdice{1}'s**.
 
